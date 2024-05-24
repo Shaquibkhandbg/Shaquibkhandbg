@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Coinhaat.com](Coinhaat.com)
 
-- 📫 Portfolio [Shaquibkhan.online](Shaquibkhan.online)
+- 📫 Portfolio [Shaquibkhan.online](http://shaquibkhan.online/)
 
 - 💬 Ask me about **Solidity , Javascript**
 
